@@ -14,6 +14,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LuizRaphaelFS&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=LuizRaphaelFS&icon=0&color=11)](https://visitcount.itsvg.in)
