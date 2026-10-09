@@ -1,8 +1,8 @@
 # 💫 About me:
-🔭 - I am not currently working yet (Minor).<br>🧑‍💼 - I'm collaborating only on my personal projects.<br>🤝 - I'm having help with: Programming Logic Domain and Autonomous Error Resolution.<br>🌱 - I am learning: C# Language Fundamentals and .NET.
+🔭 - I am not currently working yet (Minor).<br>🧑‍💼 - I'm collaborating only on my personal projects.<br>🤝 - Working on: Programming Logic and Independent Problem Solving.<br>🌱 - Studying: C# Language Fundamentals and .NET.
 
 
-## 🌐 Sociais:
+## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luizraphael1001@gmail.com) 
 
 # 💻 Areas:
