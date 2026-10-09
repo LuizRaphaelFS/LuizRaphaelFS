@@ -1,5 +1,5 @@
 # 💫 About me:
-🔭 - I am not currently working yet (Minor).<br>🧑‍💼 - I'm collaborating only on my personal projects.<br>🤝 - Working on: Programming Logic and Independent Problem Solving.<br>🌱 - Studying: C# Language Fundamentals and .NET.
+🔭 - Currently focusing on learning and personal software projects.<br>🧑‍💼 - I'm collaborating only on my personal projects.<br>🤝 - Working on: Programming Logic and Independent Problem Solving.<br>🌱 - Studying: C# Language Fundamentals and .NET.
 
 
 ## 🌐 Socials:
